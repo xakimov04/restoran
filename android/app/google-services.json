@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105137709861",
+    "project_id": "travel-b67db",
+    "storage_bucket": "travel-b67db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105137709861:android:33f82c15c4adef442630cc",
+        "android_client_info": {
+          "package_name": "com.example.permission"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpFq8v1SSvkzyD55HNKmKoo2XasqABG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105137709861:android:ab74a60d3cf960fd2630cc",
+        "android_client_info": {
+          "package_name": "com.example.restoran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpFq8v1SSvkzyD55HNKmKoo2XasqABG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
